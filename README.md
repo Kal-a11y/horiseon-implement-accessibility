@@ -13,3 +13,4 @@ N/A
 
 ## Sources
 The original source code was cloned from the [urban-octo-telegram repository](https://github.com/coding-boot-camp/urban-octo-telegram).
+The original source code is not stored in the [current repository](https://github.com/Kal-a11y/horiseon-implement-accessibility).
